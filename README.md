@@ -12,7 +12,14 @@ the dice exactly the same.  Don't forget you only need to print one die - no nee
 work out the dimensions of the caddy.
 
 # I printed the die with 0.1mm layers, and the caddy with 0.2mm layers.  Both had rafts, no supports.
-In Sketchup, I installed the Export STL tool from the Extension Warehouse.  There is a new version of Sketchup
+The dice took 1 hr 37mins each, and the caddy took 5.5hrs.  In Sketchup, I installed the Export STL tool from the 
+Extension Warehouse.  After exporting the STL file, I opened it with the 3D printer's software. 
+
+There is a new version of Sketchup
 that is completely web-based, but I have never used it.  If it's still free, I recommend getting the installable version.
+
+# The scoresheets were designed and created at design.cricut.com
+I printed them and cut them on a Cricut Explore Air 2.  I don't really recommend doing it this way as it takes too long.
+Create your own in Word or Inkscape.  The dimensions are 34mm wide and 200mm tall.
 
 # Merry Christmas!
