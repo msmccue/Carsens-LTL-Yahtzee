@@ -20,6 +20,6 @@ that is completely web-based, but I have never used it.  If it's still free, I r
 
 # The scoresheets were designed and created at design.cricut.com
 I printed them and cut them on a Cricut Explore Air 2.  I don't really recommend doing it this way as it takes too long.
-Create your own in Word or Inkscape.  The dimensions are 34mm wide and 200mm tall.
+Create your own in Word or Inkscape.  The dimensions are 34mm wide and 200mm tall. The PNG file is the basic box, no text.
 
 # Merry Christmas!
